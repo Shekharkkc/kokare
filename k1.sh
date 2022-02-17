@@ -1,4 +1,4 @@
 #! /bin/bash
-pwd
+shdkdnsms
 ls
 echo "script is running"
